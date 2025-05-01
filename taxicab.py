@@ -1,7 +1,7 @@
-\# Mutaz Al-Shara
-\# Instructor Rita Ghantous
-\# Engr_103_401_S025
-\# 04-30-2025
+# Mutaz Al-Shara
+# Instructor Rita Ghantous
+# Engr_103_401_S025
+# 04-30-2025
 class Taxicab:
     """
     A class representing a Taxicab with x and y coordinates and an odometer.
